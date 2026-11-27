@@ -1,4 +1,5 @@
 # BioMechatronics Final Project  
+![Uploading image.png…]()
 
 This project focuses on **eye movement analysis using Electrooculography (EOG)** with KNN combined with questionnaire-based methods to assess **spatial navigation ability** and cognitive load. The goal is to design a comprehensive evaluation framework that integrates physiological signals with subjective assessments for improved accuracy and depth.  
 
